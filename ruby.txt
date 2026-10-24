@@ -1,0 +1,2 @@
+Hello from ruby.txt!
+This file is inside the Docker container.
